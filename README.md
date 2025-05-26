@@ -1,5 +1,4 @@
-markdown
- 👻 ghost Edition  
+ 👻 Ghost  
 **Advanced Linux Anonymity Script | VPN > Tor > VPN > Tor Chaining | Dead-Man’s Switch | MAC & User-Agent Randomizer**
 
 ---
